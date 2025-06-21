@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/1247682582741516340?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/x4mvQqJcRk)
+[![Discord](https://img.shields.io/discord/1247682582741516340?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/x4mvQqJcRk)
 [![Website](https://img.shields.io/badge/Website-avaronbot.xyz-blue)](https://avaronbot.xyz/)
 [![Invite Bot](https://img.shields.io/badge/Invite-Avaron-green)](https://avaronbot.xyz/invite)
 
